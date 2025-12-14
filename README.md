@@ -41,7 +41,10 @@ POO_Clima/
 
 1. Clonar el repositorio:
 
-```bash [xxxxx](https://github.com/MichelleToro90/POO_UEA_S3_2025.git)
+```bash [xxxxx] (https://github.com/MichelleToro90/POO_UEA_S3_2025.git)
+
+gh repo clone MichelleToro90/POO_UEA_S3_2025
+
 Asegurarse de tener Python 3.x instalado.
 
 Ejecutar la aplicación:
